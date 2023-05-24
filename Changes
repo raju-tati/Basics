@@ -1,0 +1,6 @@
+Revision history for Perl extension Basics.
+
+0.01  Wed May 24 12:31:57 2023
+	- original version; created by h2xs 1.23 with options
+		-AXn Basics
+
